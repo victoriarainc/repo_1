@@ -1,6 +1,4 @@
-# repo_1
-Repo 1
+Week 01 - Day 01 - Learning Git 
+@ The Iron Yard - Raleigh
 
-some text
-
-this is starting to make sense
+Understanding local vs remote repositories and how to push. 
